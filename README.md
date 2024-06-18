@@ -1,1 +1,1 @@
-# Automation_java_SK14
+# SK-Automation-Java-Web
