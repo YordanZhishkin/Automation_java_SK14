@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Examples {
     public static void main(String[] args) {
-        dropdownTest();
+myFirstWebBrowser();
     }
     public static void myFirstWebBrowser(){
         ChromeDriver webDriver = new ChromeDriver();
